@@ -1,19 +1,19 @@
 # dataAnalytics-1
 Data Analytics project with the following technologies (programming and tools) : Python, SQL, Excel, Power BI, GitHub, Jira
 
-# Python (Programming Language)
+## Python (Programming Language)
 
 
-# SQL (RDBMS - MySQL)
+## SQL (RDBMS - MySQL)
 
 
-# Microsoft Excel (Spreadsheet for Analysis)
+## Microsoft Excel (Spreadsheet for Analysis)
 
 
-# Microsoft Power BI (Visualization)
+## Microsoft Power BI (Visualization)
 
 
-# GitHub (Repository)
+## GitHub (Repository)
 
 
-# Jira (Project Management)
+## Jira (Project Management)
